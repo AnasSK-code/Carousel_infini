@@ -40,5 +40,6 @@ Ce projet est un simple carrousel d'images infini implémenté en HTML et CSS. I
 - Le nombre d'images est fixe ; ajouter plus d'images peut nécessiter une mise à jour de la règle d'animation CSS.
 - Actuellement, le carrousel ne prend pas en charge les interactions utilisateur telles que la pause ou la navigation manuelle.
 
+![image](https://github.com/user-attachments/assets/c42133a6-7397-457a-b655-993f9e55ac70)
 
 
